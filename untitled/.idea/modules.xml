@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Building Blocks.iml" filepath="$PROJECT_DIR$/Building Blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP21.iml" filepath="$PROJECT_DIR$/OCP21.iml" />
     </modules>
   </component>
 </project>

@@ -12,6 +12,11 @@ the class keyword indicates you're defining a class
 
 A method is an operation that can be called.
 Public is used to signify that this method may be called from other classes
+Attention: Java does not require that the type public, this class is just fine:
+
+class Animal {
+        String name;
+}
 
 The void keyword means that no value at all is returned,
 This method requires that information be supplied to it from the calling the method

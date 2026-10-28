@@ -1,0 +1,13 @@
+error: cannot find symbol
+
+This error could mean made a typo in the name of the class. The other cause of this error is omitting a needed import
+statements tell Java which packages to look in for class
+
+Classes in the same package are often imported together
+Wildcards (caracteres de sustituição):
+
+java.util.*
+
+You might think that including so many classes slows down your program execution, but it doesn't
+Listing the classes used makes the code easier to read, especially for new devs. Using the wildcard can shorten the
+import list

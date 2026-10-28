@@ -1,0 +1,29 @@
+Java class have two primary elements:
+
+   - Methods
+   - fields
+
+Together these are called the members of the class.
+Variables hold  the state of the program and methods operate on that state
+
+Java calls a word with special meaning a Keyword.
+Line 4 the Animal.java includes the public keyword,
+the class keyword indicates you're defining a class
+
+A method is an operation that can be called.
+Public is used to signify that this method may be called from other classes
+Attention: Java does not require that the type public, this class is just fine:
+
+class Animal {
+        String name;
+}
+
+The void keyword means that no value at all is returned,
+This method requires that information be supplied to it from the calling the method
+
+The method name and parameter types are called the methos signature.
+the method signature is numberVisitors(int):
+
+public int numberVisitors(int month){
+        return 10;
+}

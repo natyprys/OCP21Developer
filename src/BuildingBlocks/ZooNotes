@@ -1,0 +1,11 @@
+Passing Parameters to a Java Program
+
+javac BuildingBlocks/Zoo.java
+java BuildingBlocks.Zoo Bronx Zoo
+The program correctly identifies the first two "words"
+
+If you spaces inside an argument, you need to use quotes as in this example
+java BuildingBlocks.Zoo "San Diego" Zoo
+
+java BuildingBlocks.Zoo Zoo
+Java prints out an exception telling you it has no idea qhat to do with this argument at position 1

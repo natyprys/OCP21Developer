@@ -1,0 +1,14 @@
+Comments can make your code easier to read
+
+// comment until end of line
+
+/* Multiple
+* line comment
+*/
+
+/**
+* Javadoc multiple-line comment
+* @author Nathalia Priscila
+*/
+
+Javadoc comments have a specific structure tha the Javadoc toll knows how to read.
